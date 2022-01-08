@@ -4,7 +4,7 @@
 
 ## I'm an IT support, a Developer, and a Mentor!!
 
-- 🌱 I’m currently learning about Full Stack Development and many other things 😅
+- 🌱 I’m currently learning full stack development and many other things 😅
 - 🤝 I’m looking to collaborate with other developers and content creators
 - 🎯 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love arts and philosophy

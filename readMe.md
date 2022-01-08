@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Full Stack Development and many other things 😅
 - 🤝 I’m looking to collaborate with other developers and content creators
 - 🎯 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to arts and phylosophie
+- ⚡ Fun fact: I love arts and philosophy
 
 ### Connect with me:
 

@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=devincere.com&style=for-the-badge&url=https%3A%2F%2Fdevincere.com)](https://devincere.com)
 
-## I'm an IT support, a Developer, and a Mentor!!
+## About me:
 
 - 🌱 I’m currently learning full stack development but also many other things 😅
 - 🤝 I’m looking to collaborate with other developers and content creators

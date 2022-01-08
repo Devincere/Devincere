@@ -18,7 +18,7 @@
 [<img align="left" alt="devincere.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="devincere | Twitter" width="22px" fill="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="devincere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="devincere | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/71180739/148650020-93c10a0f-7269-45fe-9870-2ff217e66f6e.png" />][linkedin]
 
 ## <br />
 
